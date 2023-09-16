@@ -1,0 +1,18 @@
+[project]
+name = "django-ulid"
+version = "0.1.0"
+description = "Universally Unique Lexicographically Sortable Identifier (ULID) support in Django."
+authors = [
+    {name = "Andrew Hawker", email = "andrew.r.hawker@gmail.com"},
+]
+dependencies = [
+    "typing==3.7.4.1; python_version < \"3.6\"",
+    "ulid-py==1.1.0",
+]
+requires-python = ">=3.5"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
