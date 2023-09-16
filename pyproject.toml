@@ -6,7 +6,6 @@ authors = [
     {name = "Andrew Hawker", email = "andrew.r.hawker@gmail.com"},
 ]
 dependencies = [
-    "typing==3.7.4.1; python_version < \"3.6\"",
     "ulid-py==1.1.0",
 ]
 requires-python = ">=3.5"

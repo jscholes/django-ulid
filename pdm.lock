@@ -6,16 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:d986a0db601035ac1ff3cf82e74b05de89ef9a8fa4dcaf7296ffa07e75ca396c"
-
-[[package]]
-name = "typing"
-version = "3.7.4.1"
-summary = "Type Hints for Python"
-files = [
-    {file = "typing-3.7.4.1-py3-none-any.whl", hash = "sha256:f38d83c5a7a7086543a0f649564d661859c5146a85775ab90c0d2f93ffaa9714"},
-    {file = "typing-3.7.4.1.tar.gz", hash = "sha256:91dfe6f3f706ee8cc32d38edbbf304e9b7583fb37108fef38229617f8b3eba23"},
-]
+content_hash = "sha256:11e12e489ed9f51a5dc8d5d826732e038d42592abc8cb064aa63b0eff0dc4bd6"
 
 [[package]]
 name = "ulid-py"
